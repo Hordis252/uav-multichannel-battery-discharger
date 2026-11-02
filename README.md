@@ -27,3 +27,8 @@ Klíčovou vlastností je plná automatizace – systém sám detekuje parametry
 ### 🎯 Rozšíření (volitelné cíle)
 - [ ] Implementace pasivního balancování jednotlivých článků (BMS / balanční konektory)
 - [ ] Doplňková funkce jednokanálového nabíjení
+
+## 📝 Aktuální stav
+- [x] Návrh blokového schématu (viz [náčrty v doc/sketches](doc/sketches/))
+- [-] Rozdělení na menší segmenty pro otestování
+- [ ] Začátek schématu v KiCadu
