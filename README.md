@@ -30,5 +30,5 @@ Klíčovou vlastností je plná automatizace – systém sám detekuje parametry
 
 ## 📝 Aktuální stav
 - [x] Návrh blokového schématu (viz [náčrty v doc/sketches](doc/sketches/))
-- [-] Rozdělení na menší segmenty pro otestování
+- [ ] Rozdělení na menší segmenty pro otestování
 - [ ] Začátek schématu v KiCadu
