@@ -38,6 +38,9 @@ Klíčovou vlastností je plná automatizace – systém sám detekuje parametry
 ### Ovládací panel ([hw/ui-control-board-side/](hw/ui-control-board-side/))
 ![3D náhled desky ovládacího panelu](doc/renders/ui-board.png)
 
+### Demultiplexor a CAN ([hw/mcu-board/](hw/mcu-board/))
+![3D náhled desky s demultiplexerem a CAN](doc/renders/mcu-board.png)
+
 ---
 
 ## 📝 Aktuální stav
