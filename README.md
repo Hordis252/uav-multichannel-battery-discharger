@@ -32,10 +32,10 @@ Klíčovou vlastností je plná automatizace – systém sám detekuje parametry
 
 ## 🖼️ Náhled hardwaru
 
-### Výkonový stupeň (`hw/power-stage`)
-![3D náhled desky výkonového stupně](doc/renders/power-stage.png)
+### Přepínač kanálů (`hw/power-stage`) [projekt v hw/power-stage/](hw/power-stage/)
+![3D náhled desky přepínač kanálů](doc/renders/power-stage.png)
 
-### Ovládací panel (`hw/ui-control-board-side`)
+### Ovládací panel (`hw/ui-control-board-side`) [projekt v hw/ui-control-board-side/](hw/ui-control-board-side/)
 ![3D náhled desky ovládacího panelu](doc/renders/ui-board.png)
 
 ---
