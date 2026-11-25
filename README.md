@@ -28,7 +28,18 @@ Klíčovou vlastností je plná automatizace – systém sám detekuje parametry
 - [ ] Implementace pasivního balancování jednotlivých článků (BMS / balanční konektory)
 - [ ] Doplňková funkce jednokanálového nabíjení
 
+---
+
+## 🖼️ Náhled hardwaru
+
+### Výkonový stupeň (`hw/power-stage`)
+![3D náhled desky výkonového stupně](doc/renders/power-stage.png)
+
+### Ovládací panel (`hw/ui-control-board-side`)
+![3D náhled desky ovládacího panelu](doc/renders/ui-board.png)
+
+---
+
 ## 📝 Aktuální stav
-- [x] Návrh blokového schématu (viz [náčrty v doc/sketches](doc/sketches/))
-- [ ] Rozdělení na menší segmenty pro otestování
-- [ ] Začátek schématu v KiCadu
+- [x] Návrh blokového schématu a rozdělení systému na funkční moduly (viz [náčrty v doc/sketches](doc/sketches/))
+- [ ] Rozdělení na menší segmenty pro otestování - IN PROGRESS
