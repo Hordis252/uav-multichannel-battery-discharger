@@ -35,6 +35,9 @@ Klíčovou vlastností je plná automatizace – systém sám detekuje parametry
 ### Přepínač kanálů ([hw/power-stage/](hw/power-stage/)) 
 ![3D náhled desky přepínač kanálů](doc/renders/power-stage.png)
 
+### Zátěž ([hw/load-board/](hw/load-board/))
+![3D náhled desky se zátěží](doc/renders/load-board.png)
+
 ### Ovládací panel ([hw/ui-control-board-side/](hw/ui-control-board-side/))
 ![3D náhled desky ovládacího panelu](doc/renders/ui-board.png)
 
