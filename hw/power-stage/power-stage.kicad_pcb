@@ -2505,18 +2505,7 @@
 			(uuid "e9fd2383-360a-493d-b6fd-d4583094cc8f")
 		)
 		(embedded_fonts no)
-		(model "3557-2.stp"
-			(offset
-				(xyz -9.010000094 15.51 -6.320000077)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "C:/Users/horak/Documents/Bakalářská práce/uav-multichannel-battery-discharger/hw/libs/3dmodels/keystone-35572/3557-2.stp"
+		(model "${KIPRJMOD}/3dmodels/keystone-35572/3557-2.stp"
 			(offset
 				(xyz -9 15.5 -6.5)
 			)
@@ -6111,7 +6100,7 @@
 		(property "Reference" "F1"
 			(at -0.197 1.935 0)
 			(layer "F.SilkS")
-			(uuid "115520c7-f0e7-436d-bc62-d1d3c75712c5")
+			(uuid "9de4eaac-91f3-4604-94d8-95c43ee78bb2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6123,7 +6112,7 @@
 			(at -0.597 0.218 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "9c4165a6-fe73-4e51-8fe3-cec5cc626259")
+			(uuid "b9ff12e8-a3d4-4af7-85cc-e987c896cd69")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6135,7 +6124,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c41ef5ad-1bf8-4660-9cb8-fd832fc35db8")
+			(uuid "cb2cab4e-3bfd-42e7-9df9-71dbafc125d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6146,7 +6135,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "158aef93-6af2-4e32-b3a5-1360b5a6ea88")
+			(uuid "d97c0983-b76a-490f-83ea-bdadd915de20")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6297,18 +6286,7 @@
 			(uuid "e45ecff5-7cfc-49b4-a5ef-fb280f300b64")
 		)
 		(embedded_fonts no)
-		(model "3557-2.stp"
-			(offset
-				(xyz -9.010000094 15.51 -6.320000077)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
-		(model "C:/Users/horak/Documents/Bakalářská práce/uav-multichannel-battery-discharger/hw/libs/3dmodels/keystone-35572/3557-2.stp"
+		(model "${KIPRJMOD}/3dmodels/keystone-35572/3557-2.stp"
 			(offset
 				(xyz -9 15.5 -6.5)
 			)
